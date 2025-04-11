@@ -2,8 +2,7 @@
 
 **👨‍💻 Desenvolvedor Full Stack em formação**
 
-Olá! Meu nome é Renan Medeiros, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por desenvolvimento de software e atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web.
-
+Olá! Sou apaixonado por desenvolvimento de software e atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web para buscar uma oportunidade como Desenvolvedor Frontend
 📧 [renanmedeirosrodrigues22@gmail.com](mailto:renanmedeirosrodrigues22@gmail.com)
 
 ---
