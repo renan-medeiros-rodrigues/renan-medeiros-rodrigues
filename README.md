@@ -14,14 +14,14 @@ Olá! Sou apaixonado por desenvolvimento de software e atualmente estou focado e
 ✨ Estou em constante evolução e sempre em busca de novos desafios para aprimorar minhas habilidades
 
 <div>
-  <a href="https://www.linkedin.com/in/renan-medeiros-rodrigues/" target="_blank">
+  <a href="https://www.linkedin.com/in/renan-medeiros-rodrigues/"target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:renanmedeirosrodrigues22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:renanmedeirosrodrigues22@gmail.com"target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank">
   </a>
-  <a href="https://github.com/renan-medeiros-rodrigues" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  <a href="https://github.com/renan-medeiros-rodrigues"target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"target="_blank">
   </a>
 </div>
 
