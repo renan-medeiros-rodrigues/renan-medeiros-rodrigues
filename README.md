@@ -3,6 +3,7 @@
 **👨‍💻 Desenvolvedor Full Stack em formação**
 
 Olá! Sou apaixonado por desenvolvimento de software e atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web para buscar uma oportunidade como Desenvolvedor Frontend
+
 📧 [renanmedeirosrodrigues22@gmail.com](mailto:renanmedeirosrodrigues22@gmail.com)
 
 ---
